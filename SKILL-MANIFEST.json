@@ -1,0 +1,14 @@
+{
+  "name": "hanxu-public-account-title",
+  "version": "0.1.0",
+  "repository": "hanxu-public-account-title",
+  "distribution": "independent-skill",
+  "files": {
+    "README.md": "36e1f15e4f5905e741158e850f1cf654f1245c2cbf7665c1707bae489273bd6c",
+    "SKILL.md": "43faf7711841df99cfb74d8c590eb8641f4bf938ef3e2b74dba6b50e1435d867",
+    "VALIDATION.md": "5f6d6eba7b15263a6e6b6bbb4c07fc51cb8b91e29679780c1e0899149f39d3db",
+    "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67",
+    "agents/openai.yaml": "2f400c175c898ad93b28f14ac8cca9ea66793377f57ec3889c18a5e387c6c543",
+    "references/发布准备执行标准.md": "c4559027bdf2ce4ed0820c3474d2b5629e84986a4d50d5cc023eb627879a272e"
+  }
+}
